@@ -31,7 +31,7 @@ This repo for android developers and you can add more vsc .Thank you. contribute
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/kavindyasinthasilva/GravitySl.git`
+    - 👯 Clone this repo to your local machine using https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system.git`
 
 ### Step 2
 

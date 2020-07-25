@@ -4,7 +4,7 @@
 ![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/download%20(3).png)
 
 This is our 1 st year c# project . ![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
-This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
+This repo for windows forms (c#) developers and you can add more vsc .Thank you. contribute  (fork)
 ---
 
 ## Table of Contents (Optional)

@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/download%20(3).png)
 
-This is our 1 st year c# project .![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
+This is our 1 st year c# project . ![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
 This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
 ---
 
@@ -89,3 +89,6 @@ Reach out to me at one of the following places!
 
 - **[MIT license]()**
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
+
+
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/nsbm-2020.jpg).png)

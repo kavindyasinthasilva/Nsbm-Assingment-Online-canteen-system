@@ -39,23 +39,33 @@ This repo for android developers and you can add more vsc .Thank you. contribute
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/GravitySl" target="_blank">`Pull request`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system.git" target="_blank">`Pull request`</a>.
 
 ---
 
 
 # Screenshots
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky4.jpg)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(283).png)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky1.jpg)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(284).png)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/coc.jpg)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(285).png)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(286).png)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(287).png)
+
+## admin panal
+
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(282).png)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/Screenshot%20(281).png)
+
+
 
 ## FAQ
 
 - **How do I do *specifically* so and so?**
     - No problem! Just do this.
+    cover all ooc
     Email-skysilva1999@gmai.com
 
 ---

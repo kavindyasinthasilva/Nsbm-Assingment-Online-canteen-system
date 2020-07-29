@@ -22,11 +22,11 @@ This repo for windows forms (c#) developers and you can add more vsc .Thank you.
 
 ### Group Member:✔️✔️
 
--kavindu yasintha silva✔️
--resmith pranawithana✔️
-- naduntha thathsara✔️
-- kanchna dilrukshi✔️
--pavithra de silva✔️
+- kavindu yasintha silva.✔️
+- resmith pranawithana.✔️
+- naduntha thathsara.✔️
+- kanchna dilrukshi.✔️
+- pavithra de silva.✔️
 --
 
 ---

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/download%20(3).png"> 
 
-![Image](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/Cover/Untsitled-1.jpg | width=50)
+![](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/Cover/Untsitled-1.jpg | width=50)
 
 
 

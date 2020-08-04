@@ -5,7 +5,7 @@
     
 
 
-![Image](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/Cover/Untsitled-1.jpg )
+![Image](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/gif/20200804_235955.gif )
 
 
 

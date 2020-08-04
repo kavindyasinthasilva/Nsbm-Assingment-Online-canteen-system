@@ -9,7 +9,7 @@
 
 
 
-This is our 1 st year c# project . ![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
+This is our 1 st year c# project .
 This repo for windows forms (c#) developers and you can add more vsc .Thank you. contribute  (fork)
 ---
 

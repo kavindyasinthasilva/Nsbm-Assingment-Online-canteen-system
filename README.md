@@ -115,4 +115,4 @@ Reach out to me at one of the following places!
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
 
 
-![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/nsbm-2020.jpg).png)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/nsbm-2020.jpg)

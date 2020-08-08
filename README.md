@@ -5,11 +5,11 @@
     
 
 
-![Image](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/Cover/Untsitled-1.jpg )
+![Image](https://github.com/kavindyasinthasilva/Nsbm-Assingment-Online-canteen-system/blob/master/gif/20200804_235955.gif )
 
 
 
-This is our 1 st year c# project . ![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
+This is our 1 st year c# project .
 This repo for windows forms (c#) developers and you can add more vsc .Thank you. contribute  (fork)
 ---
 
@@ -37,6 +37,9 @@ This repo for windows forms (c#) developers and you can add more vsc .Thank you.
 
 ---
 ##### OOP
+
+-
+-
 
 -
 
@@ -115,4 +118,4 @@ Reach out to me at one of the following places!
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
 
 
-![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/nsbm-2020.jpg).png)
+![Image](https://github.com/kavindyasinthasilva/Nsbm-C-Assingment-Online-canteen-system/blob/master/ss/nsbm-2020.jpg)

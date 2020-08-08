@@ -1,0 +1,1 @@
+dotnet nuget add source https://nuget.pkg.github.com/kavindyasinthasilva/index.json -n github -u kavindyasinthasilva -p GH_TOKEN [c8ab51fae5d7c87a754a61c6156b4b77e8e31646]

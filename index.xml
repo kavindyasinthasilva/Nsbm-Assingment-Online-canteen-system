@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <packageSources>
+        <clear />
+        <add key="github" value="https://nuget.pkg.github.com/OWNER/index.json" />
+    </packageSources>
+    <packageSourceCredentials>
+        <github>
+            <add key="Username" value="kavindyasinthasilva" />
+            <add key="c8ab51fae5d7c87a754a61c6156b4b77e8e31646" value="TOKEN" />
+        </github>
+    </packageSourceCredentials>
+</configuration>

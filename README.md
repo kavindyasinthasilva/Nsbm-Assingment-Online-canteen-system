@@ -1,7 +1,7 @@
 # Nsbm-C#-Assingment-Online-canteen-system🔔
 ### - NSBM 🪂👨🏾‍🎓👨🏽‍💻🤘🏻  sky 
 
-OOP -Langue
+OOP -Langues
     
 
 
